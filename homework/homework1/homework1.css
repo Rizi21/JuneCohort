@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 1;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  
+  .column img {
+    width: 100%;
+    height: 400px; /* Adjust the height as per your preference */
+    object-fit: cover;
+  }
+  
+  
